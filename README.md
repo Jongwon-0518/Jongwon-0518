@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<center>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jongwon-0518&show_icons=true&theme=jolly)
-</center>
+
 
 <!--
 **Jongwon-0518/Jongwon-0518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
