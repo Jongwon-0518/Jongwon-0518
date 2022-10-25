@@ -1,8 +1,7 @@
-### Hi there 👋
+## 👋 Hello My name is Jongwon
 <center>
 </center>
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jongwon-0518&show_icons=true&theme=jolly)
 
