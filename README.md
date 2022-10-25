@@ -23,12 +23,13 @@
 
 
 ![Top Langs](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=Jongwon-0518&theme=tokyonight&layout=compact&card_width=300&include_forks=true&hide=Jupyter%20notebook&langs_count=10)  
- 
+
+<!--
 ---
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jongwon-0518&show_icons=true&theme=tokyonight)
 
-  
+ -->
   
 </div>
 
