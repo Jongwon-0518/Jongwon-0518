@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hello, My name is Jongwon
+# 👋 Hello, I'm Jongwon
 
 ### 💡 Projects 💡
 
