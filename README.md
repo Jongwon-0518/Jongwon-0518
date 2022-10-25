@@ -4,7 +4,7 @@
 </center>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jongwon-0518&layout=compact&include_forks=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jongwon-0518&layout=compact&include_forks=true)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jongwon-0518&show_icons=true&theme=jolly)
